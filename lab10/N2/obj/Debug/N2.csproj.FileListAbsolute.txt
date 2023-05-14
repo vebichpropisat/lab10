@@ -1,0 +1,2 @@
+C:\Users\ZAKHAR\GIT10\lab10\N2\obj\Debug\N2.csproj.AssemblyReference.cache
+C:\Users\ZAKHAR\GIT10\lab10\N2\obj\Debug\N2.csproj.CoreCompileInputs.cache
